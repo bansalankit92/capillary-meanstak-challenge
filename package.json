@@ -5,7 +5,7 @@
   "dependencies": {
     "async": "latest",
     "basic-auth-connect": "latest",
-    "bcrypt-nodejs": "0.0.3",
+    "bcrypt-nodejs": "0.0.3",   
     "body-parser": "~1.13.2",
     "client-sessions": "latest",
     "connect": "latest",
@@ -37,5 +37,5 @@
     "serve-favicon": "~2.3.0",
     "simple-encryptor": "latest",
     "underscore": "latest"
-  }
+  }, "scripts" : { "start" : "node app" } 
 }
